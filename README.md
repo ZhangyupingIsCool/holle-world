@@ -1,2 +1,3 @@
 # holle-world
-this is my first repository.
+这是我的第一个存储库。
+探索，求取，不要欺骗自己!
